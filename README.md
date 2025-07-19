@@ -7,6 +7,20 @@ python. It contains the example code and solutions to the exercises in the first
 
 **Note**: If you are looking for the notebooks for the TensorFlow/Keras version of this book, check out [ageron/handson-ml3](https://github.com/ageron/handson-ml3).
 
+## Updating from upstream
+
+```bash
+# Fetch latest from their repo
+git fetch upstream
+
+# Merge their changes into your main branch
+git checkout main
+git merge upstream/main
+
+# Push the updates to your fork
+git push origin main
+```
+
 ## Quick Start
 
 ### Want to play with these notebooks online without having to install anything?
