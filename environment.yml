@@ -15,7 +15,6 @@ dependencies:
   - joblib>=1.4 # used in chapter 2 to save/load Scikit-Learn models
   - jupyter>=1.1 # to edit and run Jupyter notebooks
   - jupyterlab>=4.2 # a different UI for Jupyter notebooks
-  - jupyterlab-vim
   - lion-pytorch>=0.2 # a powerful optimizer, introduced in chapter 11
   - matplotlib>=3.10 # beautiful plots. See tutorial tools_matplotlib.ipynb
   - nbdime>=4.0 # optional tool to diff Jupyter notebooks
